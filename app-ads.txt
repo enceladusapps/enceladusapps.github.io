@@ -4405,6 +4405,7 @@ video.unrulymedia.com, 7267380105862376423, RESELLER
 video.unrulymedia.com, 729173764, RESELLER
 video.unrulymedia.com, 744858541, RESELLER
 video.unrulymedia.com, 829160295, RESELLER
+gameadzone.com, 790, DIRECT
 video.unrulymedia.com, 869839498, RESELLER
 video.unrulymedia.com, 873949647, RESELLER
 video.unrulymedia.com, 912437571, RESELLER
