@@ -1,3 +1,4 @@
+google.com, pub-1329524641394033, DIRECT, f08c47fec0942fa0
 optad360.com,4207319,DIRECT
 google.com,pub-5512390705137507,RESELLER,f08c47fec0942fa0
 inmobi.com, 1600f8a1e46a48ff981f3ecec32c8f7e, DIRECT, 83e75a7ae333ca9d
